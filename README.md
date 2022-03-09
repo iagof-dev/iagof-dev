@@ -1,5 +1,5 @@
 <h1>✨ About Me</h1>
-<a>• 🎨 Designer</a><br>
+<a>• 🎨 Digital Designer</a><br>
 <a>• 🖊️ Beginner programmer</a><br> 
 <a>• 📅 15yo</a><br>
 <a>• 💻Attending Systems Development.</a>
