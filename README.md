@@ -1,5 +1,4 @@
 <h1>✨ About Me</h1>
-<img src="https://cdn.discordapp.com/attachments/889233196091342920/951232926186614804/euzin.png" width="200" height="200">
 <a>• 🎨 Designer</a><br>
 <a>• 🖊️ Beginner programmer</a><br> 
 <a>• 📅 15yo</a><br>
