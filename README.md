@@ -4,41 +4,20 @@
 <a>• 📅 15yo</a><br>
 <a>• 💻Attending Systems Development.</a>
 
-<h2>✏️ Learning</h2>
-<table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-
-</td>
 
 
 
 
 <h2></h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&theme=dark)
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rdydzn&repo=meu-site&theme=dark)
 
-![N3rdyDzn](https://github-readme-stats.vercel.app/api?username=n3rdydzn&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&theme=dark)
+![N3rdyDzn](https://github-readme-stats.vercel.app/api?username=n3rdydzn&show_icons=true&theme=dark)  
+
 
 <h2>Social Networks</h2>
 
