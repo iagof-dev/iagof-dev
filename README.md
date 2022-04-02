@@ -65,4 +65,7 @@
 
 <br />
 
-<p align="center" >"Código aberto. Mentes abertas. Futuro aberto."</p>
+  <div align="center">
+    <h3>Open source. Open minds. Open future.</h3>
+    <p>"Código aberto. Mentes abertas. Futuro aberto."</p>
+  </div>
