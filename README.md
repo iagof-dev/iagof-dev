@@ -2,7 +2,7 @@
 <h1>✨ About Me</h1>
 <a>• 🎨 Digital Designer</a><br>
 <a>• 🖊️ Beginner programmer</a><br> 
-<a>• 📅 15yo (23-10-06)</a><br>
+<a>• 📅 15yo (10-23-06)</a><br>
 <a>• 💻Attending Systems Development.</a>
 
   
