@@ -25,11 +25,11 @@
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt="VB.NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/958777076213772348/985612342538698812/xamarin-seeklogo.com.svg" alt="PHP" height="40" />  
+  <img style="margin: 10px" src="[https://cdn.discordapp.com/attachments/958777076213772348/985612342538698812/xamarin-seeklogo.com.svg](https://cdn.iconscout.com/icon/free/png-256/xamarin-282427.png)" alt="Xamarin" height="40" />  
 </div>
 
 </td><td valign="top" width="33%">
