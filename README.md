@@ -50,7 +50,7 @@
 
 <div align="center">  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&theme=dark) ![N3rdyDzn](https://github-readme-stats.vercel.app/api?username=n3rdydzn&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n33rdydzn&theme=dark) ![N3rdyDzn](https://github-readme-stats.vercel.app/api?username=n3rdydzn&show_icons=true&theme=dark) 
 </div>
 <div align="center">
 <h2>Social Networks</h2>
