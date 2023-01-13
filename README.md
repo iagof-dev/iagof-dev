@@ -53,8 +53,8 @@
   
 <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=n3rdydzn&theme=dark"/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&layout=compact)](https://github.com/n3rdydzn/github-readme-stats)
+  
 </div>
 <div align="center">
 <h2>Social Networks</h2>
