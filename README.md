@@ -51,9 +51,9 @@
 
 <div align="center">  
   
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=n3rdydzn&theme=dark"/> <br>
+<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=n3rdydzn&theme=dracula"/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&layout=compact)](https://github.com/n3rdydzn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&layout=compact&theme=dracula)](https://github.com/n3rdydzn/github-readme-stats)
   
 </div>
 <div align="center">
