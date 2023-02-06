@@ -51,9 +51,9 @@
 
 <div align="center">  
   
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=n3rdydzn&theme=dracula"/> <br>
+<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dracula"/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdydzn&layout=compact&theme=dracula)](https://github.com/n3rdydzn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dracula)](https://github.com/n3rdydzn/github-readme-stats)
   
 </div>
 <div align="center">
@@ -66,7 +66,7 @@
 <a href="https://twitch.tv/n3rdydzn"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=n3rdydzn&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />
 </div>  
 
 <br />
