@@ -75,3 +75,5 @@
     <h3>Open source. Open minds. Open future.</h3>
     <p>"Código aberto. Mentes abertas. Futuro aberto."</p>
   </div>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xkfnv9czgtjnt6v5gz6lndym1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
