@@ -53,7 +53,7 @@
   
 <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dark"/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark)](https://github.com/n3rdydzn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark)]()
   
 </div>
 <div align="center">
