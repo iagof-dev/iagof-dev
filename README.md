@@ -58,8 +58,9 @@
 </div>
 <div align="center">
 <h2>Social Networks</h2>
-  
-[![teste](https://discord.c99.nl/widget/theme-2/833438251553128448.png)]()
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/833438251553128448)](https://discord.com/users/833438251553128448)
+
   
 <a href="https://t.me/n3rdydzn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://twitter.com/n3rdydesigner"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
