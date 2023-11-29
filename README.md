@@ -9,7 +9,7 @@
         string[] Skills = { "Programmer", "Digital Designer", "Vfx Artist", "3D Animator" };
         string Job = string.Empty;
         
-        bool student = true;
+        bool Student = true;
         string Grade = "2nd";
         string School = "ETEC Joaquim Ferreira do Amaral";
         string Course = "Desenvolvimento de Sistemas";
