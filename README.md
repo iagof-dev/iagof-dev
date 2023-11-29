@@ -9,7 +9,7 @@
         string Name = "Iago Fragnan";
         int Age = 17;
         DateTime Birthday = new DateTime(2006, 10, 23);
-        string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
+        string[] Skills = {"Developer", "Digital Designer", "Vfx Artist", "3D Animator"};
         string Job = string.Empty;
         
         bool Student = true;
