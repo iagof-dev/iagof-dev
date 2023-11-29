@@ -1,12 +1,30 @@
-<div align="center">  
-<h1>✨ About Me</h1>
-<a>• 🎨 Digital Designer</a><br>
-<a>• 🖊️ Beginner programmer</a><br> 
-<a>• 📅 17yo (10-23-06)</a><br>
-<a>• 💻Attending Systems Development.</a>
+## ✨ About Me
 
+<div align="">
+
+     public class user(){
+        string Name = "Iago Fragnan";
+        int Age = 17;
+        DateTime Birthday = new DateTime(2006, 10, 23);
+        string[] Skills = { "Programmer", "Digital Designer", "Vfx Artist", "3D Animator" };
+        string Job = string.Empty;
+        
+        bool student = true;
+        string Grade = "2nd";
+        string School = "ETEC Joaquim Ferreira do Amaral";
+        string Course = "Desenvolvimento de Sistemas";
+        DateTime Graduating = new DateTime(2024);
+        
+        string City = "Mineiros do Tietê";
+        string State = "São Paulo";
+        string Country = "Brazil";
+    }
+    
+</div>  
   
 ## ✏️ Learning
+
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -19,7 +37,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+</div>
 
 
 ### Backend  
@@ -46,9 +64,10 @@
 </div>
 </td></tr></table>  
 <br/>  
-<h2></h2>
   
 </div>
+
+## ⌛ Stats
 
 <div align="center">  
   
@@ -57,11 +76,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark)]()
   
 </div>
+
+## 🌐 Social Networks
+
 <div align="center">
-<h2>Social Networks</h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/833438251553128448)](https://discord.com/users/833438251553128448)
-
+  
   
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://twitter.com/iagofdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -70,6 +89,7 @@
 <a href="https://www.youtube.com/c/N3rdy/channels?view=49&shelf_id=3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitch.tv/n3rdydzn"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   
+[![Discord Presence](https://lanyard.cnrad.dev/api/833438251553128448)](https://discord.com/users/833438251553128448)
   
   
 
