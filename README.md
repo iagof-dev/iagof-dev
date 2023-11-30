@@ -26,7 +26,7 @@
 </div>
 </div>  
 
-## ⌛ Stats
+
 
 <div align="center" style="display: flex;">  
   
