@@ -32,7 +32,7 @@
   
  <img src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dark"/>
 
- <img style="padding-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark"/>
+ <img style="padding-left: 5px;" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark"/>
   
 </div>
 
