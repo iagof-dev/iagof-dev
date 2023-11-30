@@ -28,11 +28,11 @@
 
 ## ⌛ Stats
 
-<div align="center">  
+<div align="center" style="display: flex;">  
   
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dark"/> <br>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark)]()
+ <img style="padding-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark"/>
   
 </div>
 
