@@ -5,7 +5,7 @@
 
  <div width="300px">
      
-     public class user(){
+     public class UserInformation(){
         string Name = "Iago Fragnan";
         int Age = 17;
         DateTime Birthday = new DateTime(2006, 10, 23);
