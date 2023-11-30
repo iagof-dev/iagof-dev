@@ -40,14 +40,14 @@
 
 <div align="center">
   
+  [![Discord Presence](https://lanyard.cnrad.dev/api/833438251553128448)](https://discord.com/users/833438251553128448)
   
 <a href="https://www.linkedin.com/in/iago-fragnan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/iagof.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="[https://discord.com/users/833438251553128448](https://discord.gg/3UqkW3bpYp)"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/c/N3rdy/channels?view=49&shelf_id=3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/833438251553128448)](https://discord.com/users/833438251553128448)
-  
+
   
 
   
