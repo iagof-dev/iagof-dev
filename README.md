@@ -27,15 +27,6 @@
 </div>  
 
 
-
-<div align="center" style="display: flex;">  
-  
- <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=iagof-dev&theme=dark"/>
-
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagof-dev&layout=compact&theme=dark"/>
-  
-</div>
-
 ## 🌐 Social Networks
 
 <div align="center">
