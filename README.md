@@ -7,8 +7,8 @@
      
      public class UserInformation(){
         string Name = "Iago Fragnan";
-        int Age = 17;
         DateTime Birthday = new DateTime(2006, 10, 23);
+        int Age = DateTime.Now.Year - Birthday;   //17
         string[] Skills = {"Developer", "Digital Designer", "Vfx Artist", "3D Animator"};
         string Job = string.Empty;
         
