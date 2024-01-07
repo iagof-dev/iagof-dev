@@ -13,7 +13,7 @@
         string Job = string.Empty;
         
         bool Student = true;
-        string Grade = "2nd";
+        string Grade = "3nd";
         string School = "ETEC Joaquim Ferreira do Amaral";
         string Course = "Desenvolvimento de Sistemas";
         DateTime Graduating = new DateTime(2024);
