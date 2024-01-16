@@ -8,7 +8,7 @@
      public class AboutMe(){
         string Name = "Iago Fragnan";
         DateTime Birthday = new DateTime(2006, 10, 23);
-        int Age = DateTime.Now.Year - Birthday;   //17
+        int Age = DateTime.Now.Year - Birthday.Year;   //17
         string[] Skills = {"Developer", "Digital Designer", "Vfx Artist", "3D Animator"};
         string Job = string.Empty;
         
