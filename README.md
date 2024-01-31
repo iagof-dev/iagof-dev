@@ -26,9 +26,7 @@
 </div>
 </div>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />
-</div>  
+
 
 <br />
 
@@ -36,4 +34,6 @@
     <h3>Open source. Open minds. Open future.</h3>
     <p>"Código aberto. Mentes abertas. Futuro aberto."</p>
   </div>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />
+</div>  
