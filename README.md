@@ -26,9 +26,7 @@
 </div>
 </div>  
 
-
-
-<br />
+## 
 
   <div align="center">
     <h3>Open source. Open minds. Open future.</h3>
