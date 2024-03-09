@@ -26,7 +26,13 @@
 </div>
 </div>  
 
-## 
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=iagof&locale=pt-br&theme=dark&custom_title=Período+de+Desenvolvimento&show_icons=true)
+ 
+</div>
+
+#
 
   <div align="center">
     <h3>Open source. Open minds. Open future.</h3>
