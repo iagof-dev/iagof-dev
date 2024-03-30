@@ -26,12 +26,6 @@
 </div>
 </div>  
 
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=iagof&locale=pt-br&theme=dark&custom_title=Período+de+Desenvolvimento&show_icons=true)
- 
-</div>
-
 #
 
   <div align="center">
@@ -39,5 +33,5 @@
     <p>"Código aberto. Mentes abertas. Futuro aberto."</p>
   </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />
+<!--<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />-->
 </div>  
