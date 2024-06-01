@@ -33,5 +33,6 @@
     <p>"Código aberto. Mentes abertas. Futuro aberto."</p>
   </div>
 <div align="center">
+ <img src='https://wakatime.com/badge/user/018e1f5e-85ee-4d1b-9e0e-ed450cf40324.svg'/>
 <!--<img src="https://komarev.com/ghpvc/?username=iagof-dev&&style=flat-square" align="center" />-->
 </div>  
