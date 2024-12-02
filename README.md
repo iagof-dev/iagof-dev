@@ -5,7 +5,7 @@
 
  <div width="300px">
      
-     public class Informations{
+     public class Information{
         string Name = "Iago Fragnan";
         DateTime Birthday = new DateTime(2006, 10, 23);
         int Age = DateTime.Now.Year - Birthday.Year;   //18
