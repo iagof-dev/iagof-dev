@@ -13,10 +13,15 @@
         string Job = string.Empty;
         
         bool Student = true;
-        string Grade = "3nd";
-        string School = "ETEC Joaquim Ferreira do Amaral";
-        string Course = "Desenvolvimento de Sistemas";
-        DateTime Graduating = new DateTime(2024);
+        string Grade = "1st";
+        string University = "Universidade de Araraquara";
+        string Course = "Sistemas de Informação";
+        DateTime Graduating = new DateTime(2028);
+        
+        Dictionary<String, string> Career = new Dictionary<string, string>()
+        {
+            {"ETEC Joaquim Ferreira do Amaral", "2022-2024"},
+        };
         
         string City = "Mineiros do Tietê";
         string State = "São Paulo";
