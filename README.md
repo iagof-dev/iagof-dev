@@ -5,28 +5,30 @@
 
  <div width="300px">
      
-     public class Information{
-        string Name = "Iago Fragnan";
-        DateTime Birthday = new DateTime(2006, 10, 23);
-        int Age = 18;
-        string[] Skills = {"Developer", "Digital Designer", "Vfx Artist", "3D Animator"};
-        string Job = string.Empty;
-        
-        bool Student = true;
-        string Grade = "1st";
-        string University = "Universidade de Araraquara";
-        string Course = "Sistemas de Informação";
-        DateTime Graduating = new DateTime(2028);
-        
-        Dictionary<String, string> Career = new Dictionary<string, string>()
-        {
-            {"ETEC Joaquim Ferreira do Amaral", "2022-2024"},
-        };
-        
-        string City = "Mineiros do Tietê";
-        string State = "São Paulo";
-        string Country = "Brazil";
-    }
+     public class Information {
+       string Name = "Iago Fragnan";
+       DateTime Birthday = new DateTime(2006, 10, 23);
+       int Age = 18;
+       string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
+
+       string Job = "Desenvolvedor C# e React";
+       string JobCompany = "Duett Software";
+   
+       bool Student = true;
+       string Grade = "1st";
+       string University = "Universidade de Araraquara";
+       string Course = "Sistemas de Informação";
+       DateTime Graduating = new DateTime(2028, 12, 1);
+   
+       Dictionary<string, string> Career = new Dictionary<string, string>()
+       {
+           {"ETEC Joaquim Ferreira do Amaral", "2022-2024"},
+       };
+       string City = "Araraquara";
+       string State = "São Paulo";
+       string Country = "Brazil";
+     }
+
 
 </div>
 </div>  
